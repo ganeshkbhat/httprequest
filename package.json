@@ -1,6 +1,6 @@
 {
   "name": "httpclient",
-  "version": "0.0.1-alpha",
+  "version": "0.0.1",
   "description": "create a simple http request client",
   "main": "index.js",
   "directories": {
