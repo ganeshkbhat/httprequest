@@ -1,5 +1,5 @@
 {
-  "name": "httpclient",
+  "name": "http-requests-proxy",
   "version": "0.0.1",
   "description": "create a simple http request client",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/ganeshkbhat/httprequest.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ganesh Bhat <ganeshsurfs@gmail.com>",
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
